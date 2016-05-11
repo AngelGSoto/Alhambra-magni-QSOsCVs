@@ -20,7 +20,7 @@ Folders are classified according to the redshift range ie;
 
 -) There is a file.json for each source.
 
--) The file.json contains a dictionary, that have the magnitude of each filter of the ALHAMBRA photometric system. The file also has the "id" and the redshift "z" of the source.
+-) The file.json contains a dictionary, that have the magnitude of each filter of the ALHAMBRA photometric system. The file also has the "id" of the source. If the source is a QSO, the file also have the redshift "z".
 
 
 
