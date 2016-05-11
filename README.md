@@ -1,7 +1,7 @@
 # Alhambra-magni-QSOsCVs
 ## ALHAMBRA magnitudes of QSOs and CVs
 
-Contains folders with the ALHAMBRA magnitudes of QSOs in several redshift range and the ALHAMBRA magnitudes of the CVs from SDSS.
+Contains folders with the ALHAMBRA magnitudes of QSOs in several redshift range and the ALHAMBRA magnitudes of the CVs.
 
 ## Description of the folders
 
